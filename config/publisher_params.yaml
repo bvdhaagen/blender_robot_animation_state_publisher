@@ -1,0 +1,7 @@
+blender_joint_publisher:
+  ros__parameters:
+    csv_file: ""  # Use default path logic
+    publish_rate: 100.0  # Hz
+    loop: true
+    frame_column: "frame"
+    joint_prefix: ""
